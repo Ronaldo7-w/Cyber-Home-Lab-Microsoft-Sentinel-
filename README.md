@@ -13,7 +13,6 @@ The Cyber Home Lab project SOC in Azure from scratch. Using a free Azure subscri
 - Building an attack map to track real-time hacker activity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Used Azure VM to create a Windows 11 machine.
 - Used Microsoft Sentinel for log ingestion and analysis.
