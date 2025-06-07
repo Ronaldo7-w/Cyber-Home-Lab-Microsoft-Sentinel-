@@ -1,4 +1,4 @@
-# Cyber-Home-Lab-Microsoft-Sentinel-
+# Cyber Home Lab Microsoft Sentinel
 
 ## Objective
 
