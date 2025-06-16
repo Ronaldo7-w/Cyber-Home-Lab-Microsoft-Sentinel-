@@ -6,7 +6,7 @@ The Cyber Home Lab project SOC in Azure from scratch. Using a free Azure subscri
 
 ### Skills Learned
 
-- Creating an Azure subscription and setting up a VM.
+- Creating a Virtual Machine in the Azure Portal.
 - Configuring Log Analytics Workspace.
 - Forwarding logs and integrating with Sentinel.
 - Enhanced knowledge of network protocols and security vulnerabilities.
