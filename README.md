@@ -19,7 +19,6 @@ The Cyber Home Lab project SOC in Azure from scratch. Using a free Azure subscri
 - Within Sentinel, I used Workbooks to create an attack map.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
