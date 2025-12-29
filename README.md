@@ -1,4 +1,4 @@
-# Cyber Home Lab Microsoft Sentinel
+# Cloud Security Home Lab using Microsoft Sentinel
 
 ## Objective
 
